@@ -114,7 +114,7 @@ proj2/
 
 ## 👤 Author
 
-**Moselhy**
+**Omar Moselhy**
 
 DecodeLabs Internship Batch 2026
 
